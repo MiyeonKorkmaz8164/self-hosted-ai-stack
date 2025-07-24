@@ -2,3 +2,4 @@
 
 Notes and usage details for self-hosted-ai-stack.
 - add a note about the defaults
+- add a note about the defaults
