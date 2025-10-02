@@ -8,3 +8,4 @@ echo "self-hosted-ai-stack"
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# clarify the control flow
