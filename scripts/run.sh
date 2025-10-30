@@ -9,3 +9,4 @@ echo "self-hosted-ai-stack"
 # keep defaults in sync with the manifest
 # clarify the control flow
 # clarify the control flow
+# clarify the control flow
