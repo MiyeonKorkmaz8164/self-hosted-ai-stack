@@ -26,3 +26,4 @@ Notes and usage details for self-hosted-ai-stack.
 - add a note about the defaults
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
